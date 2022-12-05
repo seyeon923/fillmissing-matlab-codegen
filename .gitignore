@@ -1,3 +1,9 @@
+# VS Code
+.vscode
+
+# CMake build directory
+build
+
 # Windows default autosave extension
 *.asv
 
